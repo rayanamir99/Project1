@@ -1,1 +1,3 @@
 # Project1
+
+Problems 1 and 2 create a small plotting application that is focused on stock prices. In stock trading, the idea is to buy a stock when it is priced low and sell it at a later time point when the price is high which will net the profit of the difference between each. Of course, this must be done by predicting when prices are at their highest and lowest points and some insight can be garnered from examining historical data for stock prices. The application allows for easy analysis of a simple data file containing times/prices for stocks and display of their information in simple text plots. This problem implements a rudimentary hash table application in C along with a program that uses it. 
